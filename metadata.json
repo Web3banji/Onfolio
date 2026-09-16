@@ -1,0 +1,6 @@
+{
+  "name": "Onfolio",
+  "description": "User-first onchain investment passport for tokenized equities on Solana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
